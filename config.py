@@ -1,0 +1,9 @@
+DIRECTORY_PATH = "/Users/mihai/Downloads/archive/jpeg"
+DICOM_INFO_PATH = "/Users/mihai/Downloads/archive/csv/dicom_info.csv"
+CALC_PATH = "/Users/mihai/Downloads/archive/csv/calc_case_description_train_set.csv"
+MASS_TRAIN_PATH = "/Users/mihai/Downloads/archive/csv/mass_case_description_train_set.csv"
+MASS_TEST_PATH = "/Users/mihai/Downloads/archive/csv/mass_case_description_test_set.csv"
+FILE_PATTERN = "*.jpg"
+MAX_WORKERS = 15
+PADDED_WIDTH = 5431
+PADDED_HEIGHT = 7111
